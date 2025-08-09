@@ -6,7 +6,7 @@
 
 Step 1: Clone the repository
 ```
-git clone https://github.com/Surbhit01/Amazon-Alexa-Reviews.git
+git clone https://github.com/uzzal2200/Sentiment-Analysis.git
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
