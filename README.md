@@ -1,6 +1,6 @@
 # Amazon-Alexa-Reviews
 
-## Watch Video: https://www.youtube.com/watch?v=6A2w-KYG4Ko
+
 
 ## HOW TO RUN
 
@@ -31,4 +31,4 @@ Step 5: The app will run on port 5000.
 ```
 localhost:5000
 ```
-## NOTE: The issue raised is fixed, please download the .zip folder and run it.
+
